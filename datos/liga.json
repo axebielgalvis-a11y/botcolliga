@@ -1,0 +1,486 @@
+{
+  "actualizado": "noviembre de 2026",
+  "liga": {
+    "nombre_oficial": "Categoría Primera A",
+    "nombre_comercial": "Liga BetPlay DIMAYOR",
+    "organizador": "DIMAYOR (División Mayor del Fútbol Colombiano)",
+    "primer_torneo": 1948,
+    "numero_equipos": 20
+  },
+  "formato": [
+    "Cada año se juegan dos torneos que dan título por separado: el Apertura (primer semestre, I) y el Finalización (segundo semestre, II).",
+    "Primero hay una fase de todos contra todos con los 20 equipos.",
+    "Los 8 mejores de la tabla pasan a los cuadrangulares semifinales: dos grupos de 4 equipos que juegan ida y vuelta.",
+    "El primero de cada grupo juega la gran final, a partido de ida y vuelta.",
+    "Excepción: el Apertura 2026 se jugó con cuartos de final, semifinales y final por eliminación directa, para terminar a tiempo antes del Mundial 2026."
+  ],
+  "descenso": [
+    "El descenso se define con la tabla del promedio: los puntos por partido de las últimas tres temporadas (en 2026 cuentan 2024, 2025 y 2026).",
+    "Los 2 equipos con peor promedio bajan al Torneo BetPlay (la segunda división).",
+    "Los 2 mejores del Torneo BetPlay suben a la Primera A."
+  ],
+  "ultimos_campeones": [
+    {
+      "torneo": "2026-I",
+      "campeon": "junior",
+      "subcampeon": "nacional",
+      "detalle": "ganó 3-1 en el global: 3-0 en la ida y perdió 1-0 en Medellín"
+    },
+    {
+      "torneo": "2025-II",
+      "campeon": "junior",
+      "subcampeon": "tolima",
+      "detalle": "su estrella número 11"
+    },
+    {
+      "torneo": "2025-I",
+      "campeon": "santa_fe",
+      "subcampeon": "medellin",
+      "detalle": "su estrella número 10"
+    },
+    {
+      "torneo": "2024-II",
+      "campeon": "nacional",
+      "subcampeon": "tolima",
+      "detalle": "su estrella número 18, récord de la liga"
+    },
+    {
+      "torneo": "2024-I",
+      "campeon": "bucaramanga",
+      "subcampeon": "santa_fe",
+      "detalle": "la primera estrella de su historia"
+    },
+    {
+      "torneo": "2023-II",
+      "campeon": "junior",
+      "subcampeon": "medellin",
+      "detalle": ""
+    },
+    {
+      "torneo": "2023-I",
+      "campeon": "millonarios",
+      "subcampeon": "nacional",
+      "detalle": "ganó por penales"
+    }
+  ],
+  "estrellas": {
+    "nacional": 18,
+    "millonarios": 16,
+    "america": 15,
+    "junior": 12,
+    "deportivo_cali": 10,
+    "santa_fe": 10,
+    "medellin": 6,
+    "once_caldas": 4,
+    "tolima": 3,
+    "pasto": 1,
+    "bucaramanga": 1,
+    "pereira": 1,
+    "quindio": 1,
+    "cucuta": 1,
+    "chico": 1,
+    "union_magdalena": 1
+  },
+  "equipos": {
+    "nacional": {
+      "nombre": "Atlético Nacional",
+      "ciudad": "Medellín",
+      "estadio": "Atanasio Girardot",
+      "apodo": "El Verdolaga",
+      "colores": "verde y blanco",
+      "alias": [
+        "nacional",
+        "atletico nacional",
+        "verdolaga",
+        "verdolagas",
+        "el verde",
+        "verde paisa"
+      ]
+    },
+    "millonarios": {
+      "nombre": "Millonarios",
+      "ciudad": "Bogotá",
+      "estadio": "Nemesio Camacho El Campín",
+      "apodo": "El Embajador",
+      "colores": "azul y blanco",
+      "alias": [
+        "millonarios",
+        "millos",
+        "embajador",
+        "el embajador"
+      ]
+    },
+    "america": {
+      "nombre": "América de Cali",
+      "ciudad": "Cali",
+      "estadio": "Pascual Guerrero",
+      "apodo": "Los Diablos Rojos",
+      "colores": "rojo",
+      "alias": [
+        "america",
+        "america de cali",
+        "diablos rojos",
+        "la mechita",
+        "mechita"
+      ]
+    },
+    "junior": {
+      "nombre": "Junior de Barranquilla",
+      "ciudad": "Barranquilla",
+      "estadio": "Metropolitano Roberto Meléndez",
+      "apodo": "El Tiburón",
+      "colores": "rojo y blanco",
+      "alias": [
+        "junior",
+        "junior de barranquilla",
+        "tiburon",
+        "el tiburon",
+        "tiburones"
+      ]
+    },
+    "deportivo_cali": {
+      "nombre": "Deportivo Cali",
+      "ciudad": "Palmira",
+      "estadio": "Estadio Deportivo Cali",
+      "apodo": "El Azucarero",
+      "colores": "verde y blanco",
+      "alias": [
+        "deportivo cali",
+        "el cali",
+        "azucarero",
+        "azucareros"
+      ]
+    },
+    "santa_fe": {
+      "nombre": "Independiente Santa Fe",
+      "ciudad": "Bogotá",
+      "estadio": "Nemesio Camacho El Campín",
+      "apodo": "El Cardenal",
+      "colores": "rojo y blanco",
+      "alias": [
+        "santa fe",
+        "santafe",
+        "independiente santa fe",
+        "cardenal",
+        "el cardenal",
+        "expreso rojo"
+      ]
+    },
+    "medellin": {
+      "nombre": "Independiente Medellín",
+      "ciudad": "Medellín",
+      "estadio": "Atanasio Girardot",
+      "apodo": "El Poderoso de la Montaña",
+      "colores": "rojo y azul",
+      "alias": [
+        "medellin",
+        "independiente medellin",
+        "dim",
+        "el poderoso",
+        "poderoso de la montana"
+      ]
+    },
+    "once_caldas": {
+      "nombre": "Once Caldas",
+      "ciudad": "Manizales",
+      "estadio": "Palogrande",
+      "apodo": "El Blanco Blanco",
+      "colores": "blanco",
+      "alias": [
+        "once caldas",
+        "el once",
+        "blanco blanco"
+      ]
+    },
+    "tolima": {
+      "nombre": "Deportes Tolima",
+      "ciudad": "Ibagué",
+      "estadio": "Manuel Murillo Toro",
+      "apodo": "El Pijao",
+      "colores": "vinotinto y oro",
+      "alias": [
+        "tolima",
+        "deportes tolima",
+        "pijao",
+        "pijaos",
+        "vinotinto y oro"
+      ]
+    },
+    "pasto": {
+      "nombre": "Deportivo Pasto",
+      "ciudad": "Pasto",
+      "estadio": "Departamental Libertad",
+      "apodo": "El Volcánico",
+      "colores": "rojo, amarillo y azul",
+      "alias": [
+        "pasto",
+        "deportivo pasto",
+        "volcanico",
+        "el volcanico"
+      ]
+    },
+    "bucaramanga": {
+      "nombre": "Atlético Bucaramanga",
+      "ciudad": "Bucaramanga",
+      "estadio": "Américo Montanini",
+      "apodo": "El Leopardo",
+      "colores": "amarillo y verde",
+      "alias": [
+        "bucaramanga",
+        "atletico bucaramanga",
+        "leopardo",
+        "leopardos",
+        "el bucaramanga"
+      ]
+    },
+    "pereira": {
+      "nombre": "Deportivo Pereira",
+      "ciudad": "Pereira",
+      "estadio": "Hernán Ramírez Villegas",
+      "apodo": "El Matecaña",
+      "colores": "amarillo y rojo",
+      "alias": [
+        "pereira",
+        "deportivo pereira",
+        "matecana",
+        "el matecana"
+      ]
+    },
+    "cucuta": {
+      "nombre": "Cúcuta Deportivo",
+      "ciudad": "Cúcuta",
+      "estadio": "General Santander",
+      "apodo": "Los Motilones",
+      "colores": "rojo y negro",
+      "alias": [
+        "cucuta",
+        "cucuta deportivo",
+        "motilones",
+        "el cucuta"
+      ]
+    },
+    "chico": {
+      "nombre": "Boyacá Chicó",
+      "ciudad": "Tunja",
+      "estadio": "La Independencia",
+      "apodo": "El Ajedrezado",
+      "colores": "azul y blanco",
+      "alias": [
+        "chico",
+        "boyaca chico",
+        "ajedrezado",
+        "el chico"
+      ]
+    },
+    "aguilas": {
+      "nombre": "Águilas Doradas",
+      "ciudad": "Rionegro",
+      "estadio": "Alberto Grisales",
+      "apodo": "Las Águilas",
+      "colores": null,
+      "alias": [
+        "aguilas",
+        "aguilas doradas",
+        "las aguilas"
+      ]
+    },
+    "alianza": {
+      "nombre": "Alianza FC",
+      "ciudad": "Valledupar",
+      "estadio": "Armando Maestre Pavajeau",
+      "apodo": null,
+      "colores": null,
+      "alias": [
+        "alianza",
+        "alianza fc",
+        "alianza valledupar"
+      ]
+    },
+    "fortaleza": {
+      "nombre": "Fortaleza CEIF",
+      "ciudad": "Bogotá",
+      "estadio": "Metropolitano de Techo",
+      "apodo": null,
+      "colores": null,
+      "alias": [
+        "fortaleza",
+        "fortaleza ceif"
+      ]
+    },
+    "internacional": {
+      "nombre": "Internacional de Bogotá",
+      "ciudad": "Bogotá",
+      "estadio": "Metropolitano de Techo",
+      "apodo": null,
+      "colores": null,
+      "alias": [
+        "internacional",
+        "internacional de bogota",
+        "inter de bogota"
+      ]
+    },
+    "jaguares": {
+      "nombre": "Jaguares de Córdoba",
+      "ciudad": "Montería",
+      "estadio": "Jaraguay",
+      "apodo": "Los Felinos",
+      "colores": null,
+      "alias": [
+        "jaguares",
+        "jaguares de cordoba",
+        "felinos"
+      ]
+    },
+    "llaneros": {
+      "nombre": "Llaneros",
+      "ciudad": "Villavicencio",
+      "estadio": "Bello Horizonte – Rey Pelé",
+      "apodo": null,
+      "colores": null,
+      "alias": [
+        "llaneros",
+        "llaneros fc"
+      ]
+    }
+  },
+  "fuera_de_primera_a": {
+    "quindio": "Deportes Quindío",
+    "union_magdalena": "Unión Magdalena"
+  },
+  "clasicos": [
+    {
+      "nombre": "Clásico paisa",
+      "equipos": [
+        "nacional",
+        "medellin"
+      ],
+      "ciudad": "Medellín"
+    },
+    {
+      "nombre": "Clásico capitalino (bogotano)",
+      "equipos": [
+        "millonarios",
+        "santa_fe"
+      ],
+      "ciudad": "Bogotá"
+    },
+    {
+      "nombre": "Clásico vallecaucano",
+      "equipos": [
+        "america",
+        "deportivo_cali"
+      ],
+      "ciudad": "Cali"
+    },
+    {
+      "nombre": "Millonarios vs. Nacional (el duelo de los dos más ganadores)",
+      "equipos": [
+        "millonarios",
+        "nacional"
+      ],
+      "ciudad": "Bogotá / Medellín"
+    }
+  ],
+  "trivia": [
+    {
+      "pregunta": "¿Qué equipo tiene más estrellas de liga en Colombia?",
+      "opciones": [
+        "Millonarios",
+        "Atlético Nacional",
+        "América de Cali"
+      ],
+      "correcta": 1,
+      "explicacion": "Atlético Nacional tiene 18 estrellas, el récord del fútbol colombiano."
+    },
+    {
+      "pregunta": "¿Quién fue el campeón del Apertura 2026 (2026-I)?",
+      "opciones": [
+        "Atlético Nacional",
+        "Independiente Santa Fe",
+        "Junior"
+      ],
+      "correcta": 2,
+      "explicacion": "Junior le ganó la final a Nacional 3-1 en el global y fue bicampeón."
+    },
+    {
+      "pregunta": "¿Qué equipo ganó su primera estrella en 2024-I?",
+      "opciones": [
+        "Atlético Bucaramanga",
+        "Deportivo Pereira",
+        "Boyacá Chicó"
+      ],
+      "correcta": 0,
+      "explicacion": "El Bucaramanga le ganó la final a Santa Fe y celebró su primera estrella."
+    },
+    {
+      "pregunta": "¿Cómo se llama el clásico entre Nacional y Medellín?",
+      "opciones": [
+        "Clásico vallecaucano",
+        "Clásico paisa",
+        "Clásico capitalino"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el clásico paisa, y ambos juegan en el estadio Atanasio Girardot."
+    },
+    {
+      "pregunta": "¿Cuántos equipos juegan la Primera A?",
+      "opciones": [
+        "18",
+        "20",
+        "16"
+      ],
+      "correcta": 1,
+      "explicacion": "La liga tiene 20 equipos."
+    },
+    {
+      "pregunta": "¿Cuántos equipos descienden cada año?",
+      "opciones": [
+        "1",
+        "2",
+        "4"
+      ],
+      "correcta": 1,
+      "explicacion": "Bajan los 2 equipos con peor promedio de las últimas tres temporadas."
+    },
+    {
+      "pregunta": "¿A qué equipo le dicen 'El Embajador'?",
+      "opciones": [
+        "Millonarios",
+        "Santa Fe",
+        "Once Caldas"
+      ],
+      "correcta": 0,
+      "explicacion": "Millonarios es El Embajador, y tiene 16 estrellas."
+    },
+    {
+      "pregunta": "¿Cuántos equipos pasan a los cuadrangulares?",
+      "opciones": [
+        "4",
+        "8",
+        "10"
+      ],
+      "correcta": 1,
+      "explicacion": "Los 8 primeros de la fase todos contra todos."
+    },
+    {
+      "pregunta": "¿En qué año se jugó el primer torneo profesional en Colombia?",
+      "opciones": [
+        "1948",
+        "1965",
+        "1930"
+      ],
+      "correcta": 0,
+      "explicacion": "La liga profesional comenzó en 1948."
+    },
+    {
+      "pregunta": "¿Qué equipo fue campeón del Apertura 2025 (2025-I)?",
+      "opciones": [
+        "Independiente Medellín",
+        "Independiente Santa Fe",
+        "Millonarios"
+      ],
+      "correcta": 1,
+      "explicacion": "Santa Fe le ganó la final al Medellín y llegó a 10 estrellas."
+    }
+  ]
+}

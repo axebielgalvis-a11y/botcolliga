@@ -1,0 +1,256 @@
+texto,intencion
+hola,saludo
+hola bot,saludo
+buenas,saludo
+buenos días,saludo
+buenas tardes,saludo
+buenas noches,saludo
+qué más parce,saludo
+quiubo,saludo
+hey,saludo
+hola cómo estás,saludo
+saludos,saludo
+qué hubo pues,saludo
+holi,saludo
+buenas parcero,saludo
+chao,despedida
+adiós,despedida
+nos vemos,despedida
+hasta luego,despedida
+me voy,despedida
+bye,despedida
+hasta pronto,despedida
+chao bot,despedida
+me despido,despedida
+hablamos luego,despedida
+gracias,agradecimiento
+muchas gracias,agradecimiento
+mil gracias,agradecimiento
+gracias parce,agradecimiento
+te agradezco,agradecimiento
+qué bien gracias,agradecimiento
+excelente gracias,agradecimiento
+muy amable,agradecimiento
+gracias por la info,agradecimiento
+qué puedes hacer,ayuda
+ayuda,ayuda
+cómo funcionas,ayuda
+qué te puedo preguntar,ayuda
+qué sabes hacer,ayuda
+para qué sirves,ayuda
+menú,ayuda
+opciones,ayuda
+no sé qué preguntar,ayuda
+qué comandos tienes,ayuda
+quién tiene más estrellas,campeones_historicos
+cuál es el equipo más ganador de colombia,campeones_historicos
+quién es el más grande del fútbol colombiano,campeones_historicos
+tabla de estrellas,campeones_historicos
+ranking de campeones,campeones_historicos
+qué equipos tienen más títulos,campeones_historicos
+palmarés de la liga,campeones_historicos
+máximos campeones,campeones_historicos
+cuál es el equipo con más títulos,campeones_historicos
+lista de campeones históricos,campeones_historicos
+quién ha ganado más ligas,campeones_historicos
+el más campeón de colombia,campeones_historicos
+quién es el rey de copas en colombia,campeones_historicos
+qué equipo ha sido más veces campeón,campeones_historicos
+quién ganó la última liga,ultimo_campeon
+quién es el campeón actual,ultimo_campeon
+quién quedó campeón,ultimo_campeon
+último campeón,ultimo_campeon
+quién ganó el apertura,ultimo_campeon
+quién ganó el torneo pasado,ultimo_campeon
+campeón vigente,ultimo_campeon
+quién ganó la final,ultimo_campeon
+quién fue campeón este año,ultimo_campeon
+últimos campeones de la liga,ultimo_campeon
+quiénes han sido campeones últimamente,ultimo_campeon
+quién ganó el finalización,ultimo_campeon
+cuál fue la última final,ultimo_campeon
+campeones recientes,ultimo_campeon
+cuántas estrellas tiene nacional,titulos_equipo
+cuántos títulos tiene millonarios,titulos_equipo
+cuántas ligas ha ganado junior,titulos_equipo
+cuántas veces ha sido campeón santa fe,titulos_equipo
+estrellas del américa,titulos_equipo
+títulos del deportivo cali,titulos_equipo
+cuántas copas tiene el medellín,titulos_equipo
+cuántos campeonatos tiene el tolima,titulos_equipo
+el once caldas cuántas estrellas tiene,titulos_equipo
+cuántas estrellas lleva el junior,titulos_equipo
+cuántas ligas tiene millos,titulos_equipo
+ha sido campeón el bucaramanga,titulos_equipo
+el pereira ha ganado algo,titulos_equipo
+cuántos títulos tiene el verdolaga,titulos_equipo
+dónde juega nacional,estadio_equipo
+cuál es el estadio de millonarios,estadio_equipo
+en qué estadio juega junior,estadio_equipo
+estadio del américa de cali,estadio_equipo
+dónde es local santa fe,estadio_equipo
+cuál es la cancha del tolima,estadio_equipo
+de qué ciudad es el once caldas,estadio_equipo
+de dónde es el pasto,estadio_equipo
+en qué ciudad juega el bucaramanga,estadio_equipo
+dónde queda el estadio del medellín,estadio_equipo
+cuál es la casa del deportivo cali,estadio_equipo
+en qué estadio juega jaguares,estadio_equipo
+háblame de nacional,info_equipo
+información de millonarios,info_equipo
+cuéntame sobre junior,info_equipo
+qué sabes del américa,info_equipo
+datos de santa fe,info_equipo
+ficha del deportivo cali,info_equipo
+quiero saber del medellín,info_equipo
+info del tolima,info_equipo
+nacional,info_equipo
+millonarios,info_equipo
+el once caldas,info_equipo
+cómo le dicen al junior,info_equipo
+cuál es el apodo de millonarios,info_equipo
+de qué color es la camiseta del américa,info_equipo
+qué me puedes decir del pereira,info_equipo
+háblame del cúcuta,info_equipo
+cuáles son los clásicos,clasicos
+qué es el clásico paisa,clasicos
+clásicos del fútbol colombiano,clasicos
+cuál es el clásico de bogotá,clasicos
+quién juega el clásico vallecaucano,clasicos
+rivales de nacional,clasicos
+cuál es el rival de millonarios,clasicos
+clásico capitalino,clasicos
+qué partidos son clásicos,clasicos
+cuál es el clásico más importante,clasicos
+quién es el eterno rival del américa,clasicos
+cómo funciona la liga,formato
+cuál es el formato del torneo,formato
+cómo se juega el campeonato,formato
+qué son los cuadrangulares,formato
+cuántos equipos clasifican,formato
+cómo se define el campeón,formato
+qué es el apertura y el finalización,formato
+cuántas fechas tiene el torneo,formato
+cómo es la final,formato
+cuántos torneos hay al año,formato
+cómo se clasifica a los cuadrangulares,formato
+cómo es el sistema de juego,formato
+cómo funciona el descenso,descenso
+quién baja a la b,descenso
+qué es el promedio,descenso
+cuántos equipos descienden,descenso
+cómo se pierde la categoría,descenso
+tabla del descenso,descenso
+quién se va para la b,descenso
+cómo se sube a primera,descenso
+cuántos equipos ascienden,descenso
+qué es el torneo betplay,descenso
+qué equipos juegan la liga,equipos_liga
+cuántos equipos hay,equipos_liga
+lista de equipos,equipos_liga
+cuáles son los equipos de primera,equipos_liga
+equipos de la liga betplay,equipos_liga
+qué clubes están en primera a,equipos_liga
+dime todos los equipos,equipos_liga
+cuántos clubes juegan,equipos_liga
+qué equipos hay en bogotá,equipos_liga
+equipos participantes,equipos_liga
+quiero jugar trivia,trivia
+hazme una pregunta,trivia
+pregúntame algo de fútbol,trivia
+juguemos,trivia
+trivia,trivia
+quiz,trivia
+ponme a prueba,trivia
+otra pregunta,trivia
+quiero un reto,trivia
+pon una trivia de la liga,trivia
+hola parce,saludo
+buen día,saludo
+qué más,saludo
+hola qué tal,saludo
+adiós bot,despedida
+chao gracias,despedida
+nos hablamos,despedida
+ya me voy,despedida
+hasta mañana,despedida
+chao nos vemos,despedida
+listo me voy,despedida
+gracias bot,agradecimiento
+qué buena info,agradecimiento
+genial gracias,agradecimiento
+te pasaste gracias,agradecimiento
+muchas gracias parce,agradecimiento
+qué preguntas respondes,ayuda
+cómo te uso,ayuda
+dime qué haces,ayuda
+explícame qué puedes responder,ayuda
+necesito ayuda,ayuda
+qué temas manejas,ayuda
+quién tiene más títulos en colombia,campeones_historicos
+cuál es el club más laureado,campeones_historicos
+escalafón de estrellas,campeones_historicos
+cuántas estrellas tiene cada equipo,campeones_historicos
+quién es el máximo ganador de la liga,campeones_historicos
+quién ganó el último torneo,ultimo_campeon
+quién es el actual campeón de colombia,ultimo_campeon
+quién salió campeón,ultimo_campeon
+quién levantó la copa el semestre pasado,ultimo_campeon
+contra quién fue la última final,ultimo_campeon
+quién ganó la liga betplay,ultimo_campeon
+quién ganó en 2025,ultimo_campeon
+quién ganó la final del 2026,ultimo_campeon
+cuántas copas ha ganado nacional,titulos_equipo
+cuántos campeonatos ha ganado santa fe,titulos_equipo
+cuál es el palmarés de millonarios,titulos_equipo
+estrellas de junior,titulos_equipo
+qué títulos tiene el américa,titulos_equipo
+en qué estadio es local millonarios,estadio_equipo
+estadio de santa fe,estadio_equipo
+dónde juega de local el junior,estadio_equipo
+en qué ciudad está el chicó,estadio_equipo
+qué rivalidades hay en la liga,clasicos
+cuál es el clásico de cali,clasicos
+qué es el clásico bogotano,clasicos
+contra quién juega el clásico el medellín,clasicos
+cuántas fechas se juegan,formato
+cómo funcionan los cuadrangulares,formato
+cuántos pasan a la siguiente fase,formato
+la final es de ida y vuelta,formato
+cuántos partidos tiene la fase regular,formato
+cómo se decide quién es campeón,formato
+qué pasa con el último de la tabla,descenso
+cómo se calcula el promedio del descenso,descenso
+quién asciende a la primera a,descenso
+cuál es la segunda división,descenso
+cuántos equipos tiene la liga,equipos_liga
+qué equipos son de medellín,equipos_liga
+nombra los equipos de la primera división,equipos_liga
+todos los clubes de la liga,equipos_liga
+dame una trivia,trivia
+quiero responder preguntas,trivia
+examíname,trivia
+pregunta de fútbol colombiano,trivia
+quién tiene más puntos en la liga,tabla_posiciones
+quién va de líder,tabla_posiciones
+cómo va la tabla,tabla_posiciones
+tabla de posiciones,tabla_posiciones
+quién va primero en la liga,tabla_posiciones
+quién lidera el torneo,tabla_posiciones
+cuántos puntos tiene nacional,tabla_posiciones
+en qué puesto va millonarios,tabla_posiciones
+cómo va junior en la tabla,tabla_posiciones
+quién va último,tabla_posiciones
+quién va de colero,tabla_posiciones
+quiénes van clasificando a cuadrangulares,tabla_posiciones
+posiciones de la liga betplay,tabla_posiciones
+cómo quedó la última fecha,tabla_posiciones
+resultados de la fecha,tabla_posiciones
+quién ganó el partido de ayer,tabla_posiciones
+cuándo juega el américa,tabla_posiciones
+próximo partido de santa fe,tabla_posiciones
+quién va puntero,tabla_posiciones
+cuántos puntos lleva el medellín,tabla_posiciones
+quién es el líder,tabla_posiciones
+líder de la liga,tabla_posiciones
+quién va de líder del torneo,tabla_posiciones
